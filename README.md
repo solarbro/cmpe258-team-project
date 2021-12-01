@@ -1,4 +1,4 @@
-# cmpe258-team-project
+# CMPE258-Group6-Project
 # Contradictory, My Dear Watson
 
 This project is based on active Kaggle competition named as “Contradictory-My Dear Watson”.
