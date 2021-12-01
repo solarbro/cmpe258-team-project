@@ -27,7 +27,7 @@ Columns in Training Dataset:
 
 # Conclusion:
 1. The predictions for different models were submitted on Kaggle leaderboard
-2. The testing accuracy f 92.66% was achieved for XLMRoberta-large-xnli model with the Kaggle rank of 12.
+2. The testing accuracy of 92.66% was achieved for XLMRoberta-large-xnli model with the Kaggle rank of 12.
 
 ![image](https://user-images.githubusercontent.com/36389195/144159573-617f85e9-1e8e-46c7-97b0-e4f32001ae67.png)
 
